@@ -76,7 +76,7 @@ header {
 	padding: 40px 0;
 	position: fixed;
 	top: 0;
-	z-index: 10;
+	z-index: 2;
 	background: white;
 }
 
